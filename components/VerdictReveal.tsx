@@ -11,7 +11,6 @@ export const VerdictReveal = () => {
   const { verdict, selectedMovies, resetGame } = useGameStore();
 
   if (!verdict) return null;
-  console.log(selectedMovies);
 
   return (
     <div className="flex flex-col items-center justify-center w-full max-w-4xl mx-auto py-12 px-4 space-y-12">
