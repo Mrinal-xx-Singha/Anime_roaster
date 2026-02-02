@@ -4,7 +4,8 @@
 
 **Movie Taste Judge** is an interactive web application that analyzes your film preferences through a "King of the Hill" style tournament. It pits movies against each other, learns from your choices, and assigns you a brutally honest "Taste Profile" (Roast) at the end.
 
-![Movie Roaster Demo](https://placehold.co/1200x600/1a1a1a/FFF?text=Movie+Taste+Judge+Preview)
+![Movie Roaster Demo]
+<img width="1207" height="623" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/195d86a1-e9b3-4b2a-b2cb-219429263808" />
 
 ## ✨ Features
 
